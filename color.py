@@ -12,7 +12,7 @@ import cv2
 
 
 #Let's read the image in "img" using opencv
-img=cv2.imread('test_1.jpg')
+img=cv2.imread('test.jpg')
 
 #Let's read the colors available in colors.csv file, which is taken from 'color-names' repo by codebrainz
 titles=['color_id','color','HEX','R','G','B']
